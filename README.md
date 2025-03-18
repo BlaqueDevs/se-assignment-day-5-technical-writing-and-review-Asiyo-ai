@@ -229,9 +229,9 @@ Showing feature differences between software versions.
 🔹 Best For: Helping users navigate software interfaces or understand configuration steps.
 🔹 Example Use:
 
-Walkthrough of a new SaaS dashboard.
+**Walkthrough of a new SaaS dashboard.
 Showing how to enable multi-factor authentication in an app.
-
+**
 
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 1️⃣ Enhance Readability & Scannability
@@ -259,12 +259,14 @@ Improves searchability in online content (SEO) by allowing search engines to und
 ✔ Keep headings short, scannable, and SEO-friendly.
 ✔ Maintain consistency in formatting and style.
 ✔ Avoid jargon, and use action-oriented language where possible.
+
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 ✔ Clearly define the product in one or two sentences.
 ✔ Highlight key features & benefits concisely.
 ✔ Include an install command for quick setup.
 ✔ Mention the target audience.
 ✔ Provide a simple usage example if applicable.
+
 ## 12. How can you succinctly convey the purpose and key features of a product?
 ✔ One sentence = What your product does + the problem it solves
 ✔ Bullet points = Key features in an easy-to-read format
